@@ -5,3 +5,7 @@ Thumbs.bd
 .env 
 /tmp
 Readme.md
+
+node_modules 
+.env.local
+npm-debug.log*
